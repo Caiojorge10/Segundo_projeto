@@ -2,6 +2,11 @@ body{
     background-image: url(img/fundo.png);
 }
 
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
 .link{
     color: #577CA7;
 }
