@@ -1,0 +1,29 @@
+body{
+    background-image: url(img/fundo.png);
+}
+
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+.link{
+    color: #577CA7;
+}
+
+#paragrafo{
+    color: #E511D1;
+}
+
+.sobre{
+    width: 900px;
+    height: 250px;
+    background-color: #fff;
+}
+
+.final{
+    font-weight: 900;
+    margin-left: 17%;
+}
+

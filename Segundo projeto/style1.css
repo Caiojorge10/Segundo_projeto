@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/fundo.png);
+}
+
+.link{
+    color: #577CA7;
+}
+
+.borda{
+    border-color: #D6E997;
+    border-width: 10px;
+    border-style: groove ;
+}
+
+.sobre{
+    width: 900px;
+    height: 1750px;
+    background-color: #fff;
+}
+
+
+.final{
+    font-weight: 900;
+    margin-left: 17%;
+}
